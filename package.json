@@ -1,0 +1,20 @@
+{
+  "name": "nodefiles",
+  "version": "14.16.1",
+  "description": "Simple Web App",
+  "main": "server-13.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohsenSaghakahvaz/Intro-to-Node.git"
+  },
+  "author": "Mohsen Saghakahvaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohsenSaghakahvaz/Intro-to-Node/issues"
+  },
+  "homepage": "https://github.com/MohsenSaghakahvaz/Intro-to-Node#readme"
+}
